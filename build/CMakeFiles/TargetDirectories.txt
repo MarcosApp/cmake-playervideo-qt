@@ -1,0 +1,5 @@
+/home/marcos/Projetos/C++/aula/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/Projetos/C++/aula/build/CMakeFiles/edit_cache.dir
+/home/marcos/Projetos/C++/aula/build/src/CMakeFiles/rebuild_cache.dir
+/home/marcos/Projetos/C++/aula/build/src/CMakeFiles/aula.dir
+/home/marcos/Projetos/C++/aula/build/src/CMakeFiles/edit_cache.dir
